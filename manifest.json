@@ -6,8 +6,8 @@
   "version": "1.0",
 
   "browser_action": {
-    "default_icon": "../res/site-status-icon.ico",
-    "default_popup": "js/index.html"
+    "default_icon": "/res/site-status-icon.png",
+    "default_popup": "src/view/index.html"
   },
   "permissions": [
     "activeTab",
